@@ -196,10 +196,6 @@
                     <div class="cs_height_55"></div>
                     <div class="cs_about_img">
                         <img src="assets/img/home/about.png" alt="About">
-{{--                        <div class="cs_about_mini_img">--}}
-{{--                            <img src="assets/img/home_1/about_mini.svg" alt="Mini" class="cs_rotate_animation">--}}
-{{--                            <img src="assets/img/icons/tick.svg" alt="Right" class="cs_right_icon">--}}
-{{--                        </div>--}}
                     </div>
                 </div>
                 <div class="col-lg-5">
